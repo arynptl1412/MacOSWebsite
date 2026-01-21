@@ -1,10 +1,11 @@
 import React from 'react'
+import Dock from './components/Dock'
 
 const App = () => {
   return (
-    <div className='bg-black h-screen w-screen'>
-
-    </div>
+    <main>
+      <Dock/>
+    </main>
   )
 }
 
