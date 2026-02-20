@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1657812159075-7f0abd98f7b8?q=80&w=1277&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "E-Commerce Web App",
+        "description": "A full-stack e-commerce platform with user auth, product listings, cart features, and payment integration.",
+        "tags": [
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Stripe"
+        ],
+        "repolink": "https://github.com/yourusername/ecommerce-app",
+        "demolink": "https://ecommerce-demo.vercel.app"
+    },
+    {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1683721003111-070bcc053d8b?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Social Media Platform",
+        "description": "A social media platform with posts, likes, comments, and image uploads.",
+        "tags": [
+            "React",
+            "Node.js",
+            "MongoDB",
+            "JWT"
+        ],
+        "repolink": "https://github.com/yourusername/social-media-app",
+        "demolink": "https://socialapp-demo.vercel.app"
+    },
+    {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1676276374289-5051ed04c77a?q=80&w=1145&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Task Management System",
+        "description": "A task manager app with drag-and-drop lists and real-time updates for productivity.",
+        "tags": [
+            "React",
+            "Firebase",
+            "Tailwind CSS"
+        ],
+        "repolink": "https://github.com/yourusername/task-manager",
+        "demolink": "https://taskmanager-demo.netlify.app"
+    },
+    {
+        "id": 4,
+        "image": "https://plus.unsplash.com/premium_photo-1675968513923-e07c6bbe0218?q=80&w=1316&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Weather Dashboard",
+        "description": "A weather app pulling real-time API data to display local conditions with dynamic visuals.",
+        "tags": [
+            "JavaScript",
+            "REST API",
+            "HTML",
+            "CSS"
+        ],
+        "repolink": "https://github.com/yourusername/weather-dashboard",
+        "demolink": "https://weather-demo.netlify.app"
+    },
+    {
+        "id": 5,
+        "image": "https://plus.unsplash.com/premium_photo-1720744786849-a7412d24ffbf?q=80&w=1109&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Full Stack Blog Platform",
+        "description": "A blog website with rich-text posting, user auth, and content management features.",
+        "tags": [
+            "Next.js",
+            "MongoDB",
+            "Tailwind CSS"
+        ],
+        "repolink": "https://github.com/yourusername/blog-platform",
+        "demolink": "https://blog-demo.vercel.app"
+    },
+    {
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Personal Portfolio Website",
+        "description": "A responsive developer portfolio showcasing skills, projects, and contact integration.",
+        "tags": [
+            "React",
+            "Framer Motion",
+            "Tailwind CSS"
+        ],
+        "repolink": "https://github.com/yourusername/portfolio-website",
+        "demolink": ""
+    }
+]
